@@ -18,4 +18,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-![projemin resmi](https://imgyukle.com/f/2022/09/13/nixPWn.png)
+![projemin resmi](https://imgyukle.com/f/2022/09/13/nixNMR.png)
